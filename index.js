@@ -6,3 +6,6 @@ console.log(b)
 
 const b = 2
 console.log(b)
+
+const b = 2
+console.log(b)
